@@ -1,0 +1,16 @@
+Média e Desvio Padrão para a Plataforma: NPB-OMP
+  Threads: 1, Média: 0.15, Desvio Padrão: 0.35
+  Threads: 2, Média: 0.08, Desvio Padrão: 0.18
+  Threads: 3, Média: 0.05, Desvio Padrão: 0.12
+Média e Desvio Padrão para a Plataforma: NPB-FF
+  Threads: 1, Média: 0.15, Desvio Padrão: 0.35
+  Threads: 2, Média: 0.10, Desvio Padrão: 0.17
+  Threads: 3, Média: 0.09, Desvio Padrão: 0.12
+Média e Desvio Padrão para a Plataforma: NPB-TBB
+  Threads: 1, Média: 0.15, Desvio Padrão: 0.35
+  Threads: 2, Média: 0.08, Desvio Padrão: 0.17
+  Threads: 3, Média: 0.05, Desvio Padrão: 0.12
+Média e Desvio Padrão para a Plataforma: NPB-SER
+  Threads: 1, Média: 0.15, Desvio Padrão: 0.35
+  Threads: 2, Média: 0.15, Desvio Padrão: 0.35
+  Threads: 3, Média: 0.15, Desvio Padrão: 0.35
