@@ -1,17 +1,21 @@
 # Pratica-em-Pesquisa
 
-scriptBenchmarks.sh 
-  - Executa todos os benchmarks do NPB-CPP
+script-NPB.sh
 
-scriptGrep.sh
-  - Filtra apenas os 'time in seconds' dos resultados gerados pelo 'scriptBenchmarks'
+      O script executa todos os testes do NPB e salva os resultados de "Time in seconds" no arquivo "benchmark_times.txt"
 
-media.py
-  - Pega os dados filtrados pelo 'scriptGrep' e faz as medias
+benchmark_times.txt
 
-medias1.txt
- - Dados das medias feito pelo 'media.py'. Na parte do 'SER' embora esteja com threads de (1, 4, 8, 12)
-  ele é feito apenas com 1 thread, então trocar o contexto de 'threads' para execuções.
+      É o resultado de script-NPB.SH
 
-graficos.py
-  - Gera os gráficos a partir das medias calculadas
+calculoMedia.py
+
+      Pega o resultado do script-NPB no arquivo benchmark_times.txt e faz as médias de todas as plataformas para cada número de threads.
+
+medidas_timeInSeconds.txt
+
+      É a saída do programa calculoMedia.py so que em um .txt
+
+graficosNPB.py
+
+      É o codigo que gera os gráficos baseado no medidas_timeInSeconds.txt, porém todos os resultados foram passados a mão.
