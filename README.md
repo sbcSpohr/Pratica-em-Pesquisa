@@ -22,7 +22,7 @@ graficosNPB.py
 
 
 
-#INSTALAÇÕES
+# INSTALAÇÕES
 
 - Python
 
