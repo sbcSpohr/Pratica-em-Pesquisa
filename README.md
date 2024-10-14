@@ -19,3 +19,24 @@ medidas_timeInSeconds.txt
 graficosNPB.py
 
 - É o codigo que gera os gráficos baseado no medidas_timeInSeconds.txt, porém todos os resultados foram passados a mão.
+
+
+#INSTALAÇÕES
+
+- Python
+
+      sudo apt install python3
+
+Bixar matplotlib:
+
+  - Baixar pelo pip:
+
+        pip3 install matplotlib 
+
+  - Baixar pelo gerenciador de pacotes debian: 
+
+        sudo apt install python3-matplotlib
+
+Compilar:
+
+        python3 <nome_do_arquivo>.py
