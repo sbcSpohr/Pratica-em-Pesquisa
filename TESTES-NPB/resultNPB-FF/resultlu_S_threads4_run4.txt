@@ -1,0 +1,63 @@
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with FastFlow - LU Benchmark
+
+ Size:   12x  12x  12
+ Iterations:   50
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   50
+
+ Verification being performed for class_npb S
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.6196343210978E-02 1.6196343210977E-02 8.8897874434085E-14
+           2   2.1976745164824E-03 2.1976745164821E-03 1.2945258632547E-13
+           3   1.5179927653395E-03 1.5179927653399E-03 2.9997831533930E-13
+           4   1.5029584436013E-03 1.5029584435994E-03 1.2367316025436E-12
+           5   3.4264073155897E-02 3.4264073155896E-02 1.4580880644523E-14
+ Comparison of RMS-norms of solution error
+           1   6.4223319957955E-04 6.4223319957961E-04 8.9304469096313E-14
+           2   8.4144342047351E-05 8.4144342047348E-05 3.7849768673502E-14
+           3   5.8588269616504E-05 5.8588269616485E-05 3.2303572536515E-13
+           4   5.8474222595145E-05 5.8474222595157E-05 2.0870821641416E-13
+           5   1.3103347914112E-03 1.3103347914111E-03 5.5106424068747E-14
+ Comparison of surface integral
+               7.8418928865937E+00 7.8418928865937E+00 1.1326071811291E-16
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        S
+ Size            =             12x  12x  12
+ Total threads   =                        4
+ Iterations      =                       50
+ Time in seconds =                     0.03
+ Mop/s total     =                  3105.50
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              09 Oct 2024
+ Compiler ver    =                   12.2.0
+ FastFlow ver    =                    3.0.0
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common
+    CFLAGS       = -O3 -mcmodel=medium -I ../../libs/fastflow ...
+    CLINKFLAGS   = -O3 -mcmodel=medium -I ../../libs/fastflow ...
+    RAND         = (none)
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
