@@ -1,0 +1,41 @@
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with FastFlow - IS Benchmark
+
+ Size:  65536  (class S)
+ Iterations:   10
+
+
+
+ IS Benchmark Completed
+ class_npb       =                        S
+ Size            =                    65536
+ Total threads   =                        1
+ Iterations      =                       10
+ Time in seconds =                     0.00
+ Mop/s total     =                   434.30
+ Operation type  =              keys ranked
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              09 Oct 2024
+ Compiler ver    =                   12.2.0
+ FastFlow ver    =                    3.0.0
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common
+    CFLAGS       = -O3 -mcmodel=medium -I ../../libs/fastflow ...
+    CLINKFLAGS   = -O3 -mcmodel=medium -I ../../libs/fastflow ...
+    RAND         = randdp
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
