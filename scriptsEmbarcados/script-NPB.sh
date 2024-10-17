@@ -85,5 +85,9 @@ for platform in "${platforms[@]}"; do
     cd .. || exit
 done
 
-echo "Resultados organizados em $output_file"
 
+echo -e  "\n\n\n================================================================================"
+echo
+echo "Resultados organizados em $output_file"
+echo
+echo -e "================================================================================\n\n"
