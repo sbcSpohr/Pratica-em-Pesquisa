@@ -1,0 +1,63 @@
+ No input file inputsp.data. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Serial C++ version - SP Benchmark
+
+ Size:   12x  12x  12
+ Iterations:  100    dt:   0.015000
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Verification being performed for class S
+ accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1 2.7470315451373E-02 2.7470315451339E-02 1.2087985242095E-12
+           2 1.0360746705278E-02 1.0360746705285E-02 6.7039886172179E-13
+           3 1.6235745065064E-02 1.6235745065096E-02 1.9599819605280E-12
+           4 1.5840557224454E-02 1.5840557224456E-02 9.0456514303971E-14
+           5 3.4849040609363E-02 3.4849040609362E-02 2.0110403960629E-14
+ Comparison of RMS-norms of solution error
+           1 2.7289258557405E-05 2.7289258557377E-05 1.0309934334362E-12
+           2 1.0364446640834E-05 1.0364446640837E-05 3.3866781846235E-13
+           3 1.6154798287128E-05 1.6154798287166E-05 2.3724559178068E-12
+           4 1.5750704994480E-05 1.5750704994480E-05 2.4952742601917E-14
+           5 3.4177666183396E-05 3.4177666183391E-05 1.6416411268418E-13
+ Verification Successful
+
+
+ SP Benchmark Completed
+ class_npb       =                        S
+ Size            =             12x  12x  12
+ Iterations      =                      100
+ Time in seconds =                     0.01
+ Mop/s total     =                  7289.45
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compiler ver    =                   12.2.0
+ Compile date    =              09 Oct 2024
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm 
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -mcmodel=medium
+    CLINKFLAGS   = -O3 -mcmodel=medium
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
