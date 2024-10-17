@@ -1,0 +1,1368 @@
+Resultados da plataforma: NPB-OMP com 1 threads
+Resultados do kernel: ep com 1 threads
+Run 1:  Time in seconds =                     1.07
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.07
+Run 4:  Time in seconds =                     1.17
+Run 5:  Time in seconds =                     1.07
+
+Resultados do kernel: cg com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 1 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 1 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 1 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 1 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-OMP com 2 threads
+Resultados do kernel: ep com 2 threads
+Run 1:  Time in seconds =                     0.53
+Run 2:  Time in seconds =                     0.53
+Run 3:  Time in seconds =                     0.53
+Run 4:  Time in seconds =                     0.53
+Run 5:  Time in seconds =                     0.53
+
+Resultados do kernel: cg com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-OMP com 3 threads
+Resultados do kernel: ep com 3 threads
+Run 1:  Time in seconds =                     0.36
+Run 2:  Time in seconds =                     0.36
+Run 3:  Time in seconds =                     0.39
+Run 4:  Time in seconds =                     0.36
+Run 5:  Time in seconds =                     0.36
+
+Resultados do kernel: cg com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-OMP com 4 threads
+Resultados do kernel: ep com 4 threads
+Run 1:  Time in seconds =                     0.27
+Run 2:  Time in seconds =                     0.27
+Run 3:  Time in seconds =                     0.27
+Run 4:  Time in seconds =                     0.27
+Run 5:  Time in seconds =                     0.27
+
+Resultados do kernel: cg com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: sp com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-OMP com 5 threads
+Resultados do kernel: ep com 5 threads
+Run 1:  Time in seconds =                     0.29
+Run 2:  Time in seconds =                     0.28
+Run 3:  Time in seconds =                     0.29
+Run 4:  Time in seconds =                     0.30
+Run 5:  Time in seconds =                     0.29
+
+Resultados do kernel: cg com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: sp com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-OMP com 6 threads
+Resultados do kernel: ep com 6 threads
+Run 1:  Time in seconds =                     0.24
+Run 2:  Time in seconds =                     0.24
+Run 3:  Time in seconds =                     0.25
+Run 4:  Time in seconds =                     0.24
+Run 5:  Time in seconds =                     0.24
+
+Resultados do kernel: cg com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 6 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: sp com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.00
+
+Resultados da plataforma: NPB-FF com 1 threads
+Resultados do kernel: ep com 1 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 1 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 1 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-FF com 2 threads
+Resultados do kernel: ep com 2 threads
+Run 1:  Time in seconds =                     0.54
+Run 2:  Time in seconds =                     0.54
+Run 3:  Time in seconds =                     0.54
+Run 4:  Time in seconds =                     0.54
+Run 5:  Time in seconds =                     0.54
+
+Resultados do kernel: cg com 2 threads
+Run 1:  Time in seconds =                     0.11
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.03
+Run 4:  Time in seconds =                     0.08
+Run 5:  Time in seconds =                     0.08
+
+Resultados do kernel: mg com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: is com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: ft com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.03
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 2 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.03
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.03
+
+Resultados do kernel: sp com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.06
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.12
+
+Resultados do kernel: lu com 2 threads
+Run 1:  Time in seconds =                     0.03
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.03
+
+Resultados da plataforma: NPB-FF com 3 threads
+Resultados do kernel: ep com 3 threads
+Run 1:  Time in seconds =                     0.39
+Run 2:  Time in seconds =                     0.38
+Run 3:  Time in seconds =                     0.39
+Run 4:  Time in seconds =                     0.38
+Run 5:  Time in seconds =                     0.39
+
+Resultados do kernel: cg com 3 threads
+Run 1:  Time in seconds =                     0.11
+Run 2:  Time in seconds =                     0.11
+Run 3:  Time in seconds =                     0.10
+Run 4:  Time in seconds =                     0.11
+Run 5:  Time in seconds =                     0.08
+
+Resultados do kernel: mg com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: is com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.03
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 3 threads
+Run 1:  Time in seconds =                     0.06
+Run 2:  Time in seconds =                     0.07
+Run 3:  Time in seconds =                     0.07
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: sp com 3 threads
+Run 1:  Time in seconds =                     0.12
+Run 2:  Time in seconds =                     0.13
+Run 3:  Time in seconds =                     0.08
+Run 4:  Time in seconds =                     0.12
+Run 5:  Time in seconds =                     0.13
+
+Resultados do kernel: lu com 3 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados da plataforma: NPB-FF com 4 threads
+Resultados do kernel: ep com 4 threads
+Run 1:  Time in seconds =                     0.29
+Run 2:  Time in seconds =                     0.29
+Run 3:  Time in seconds =                     0.29
+Run 4:  Time in seconds =                     0.29
+Run 5:  Time in seconds =                     0.29
+
+Resultados do kernel: cg com 4 threads
+Run 1:  Time in seconds =                     0.07
+Run 2:  Time in seconds =                     0.07
+Run 3:  Time in seconds =                     0.03
+Run 4:  Time in seconds =                     0.07
+Run 5:  Time in seconds =                     0.07
+
+Resultados do kernel: mg com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: is com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: ft com 4 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 4 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: sp com 4 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.12
+Run 3:  Time in seconds =                     0.11
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.12
+
+Resultados do kernel: lu com 4 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.04
+
+Resultados da plataforma: NPB-FF com 5 threads
+Resultados do kernel: ep com 5 threads
+Run 1:  Time in seconds =                     0.23
+Run 2:  Time in seconds =                     0.23
+Run 3:  Time in seconds =                     0.23
+Run 4:  Time in seconds =                     0.23
+Run 5:  Time in seconds =                     0.23
+
+Resultados do kernel: cg com 5 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.06
+Run 3:  Time in seconds =                     0.06
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.06
+
+Resultados do kernel: mg com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: is com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 5 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.08
+Run 3:  Time in seconds =                     0.06
+Run 4:  Time in seconds =                     0.06
+Run 5:  Time in seconds =                     0.06
+
+Resultados do kernel: sp com 5 threads
+Run 1:  Time in seconds =                     0.08
+Run 2:  Time in seconds =                     0.06
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.07
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: lu com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.03
+
+Resultados da plataforma: NPB-FF com 6 threads
+Resultados do kernel: ep com 6 threads
+Run 1:  Time in seconds =                     0.20
+Run 2:  Time in seconds =                     0.19
+Run 3:  Time in seconds =                     0.19
+Run 4:  Time in seconds =                     0.20
+Run 5:  Time in seconds =                     0.19
+
+Resultados do kernel: cg com 6 threads
+Run 1:  Time in seconds =                     0.03
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.03
+
+Resultados do kernel: mg com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: is com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: ft com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 6 threads
+Run 1:  Time in seconds =                     0.03
+Run 2:  Time in seconds =                     0.03
+Run 3:  Time in seconds =                     0.03
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.03
+
+Resultados do kernel: sp com 6 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.03
+Run 3:  Time in seconds =                     0.03
+Run 4:  Time in seconds =                     0.03
+Run 5:  Time in seconds =                     0.03
+
+Resultados do kernel: lu com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 1 threads
+Resultados do kernel: ep com 1 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.08
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 1 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 1 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 1 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 1 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 2 threads
+Resultados do kernel: ep com 2 threads
+Run 1:  Time in seconds =                     0.53
+Run 2:  Time in seconds =                     0.53
+Run 3:  Time in seconds =                     0.53
+Run 4:  Time in seconds =                     0.53
+Run 5:  Time in seconds =                     0.53
+
+Resultados do kernel: cg com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.03
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 3 threads
+Resultados do kernel: ep com 3 threads
+Run 1:  Time in seconds =                     0.36
+Run 2:  Time in seconds =                     0.36
+Run 3:  Time in seconds =                     0.36
+Run 4:  Time in seconds =                     0.36
+Run 5:  Time in seconds =                     0.36
+
+Resultados do kernel: cg com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: bt com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 4 threads
+Resultados do kernel: ep com 4 threads
+Run 1:  Time in seconds =                     0.27
+Run 2:  Time in seconds =                     0.27
+Run 3:  Time in seconds =                     0.27
+Run 4:  Time in seconds =                     0.27
+Run 5:  Time in seconds =                     0.27
+
+Resultados do kernel: cg com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 4 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 5 threads
+Resultados do kernel: ep com 5 threads
+Run 1:  Time in seconds =                     0.23
+Run 2:  Time in seconds =                     0.23
+Run 3:  Time in seconds =                     0.23
+Run 4:  Time in seconds =                     0.23
+Run 5:  Time in seconds =                     0.23
+
+Resultados do kernel: cg com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-TBB com 6 threads
+Resultados do kernel: ep com 6 threads
+Run 1:  Time in seconds =                     0.20
+Run 2:  Time in seconds =                     0.20
+Run 3:  Time in seconds =                     0.21
+Run 4:  Time in seconds =                     0.20
+Run 5:  Time in seconds =                     0.20
+
+Resultados do kernel: cg com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: mg com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: bt com 6 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: sp com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-SER com 1 threads
+Resultados do kernel: ep com 1 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 1 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 1 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 1 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 1 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 1 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.02
+
+Resultados da plataforma: NPB-SER com 2 threads
+Resultados do kernel: ep com 2 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.07
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 2 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 2 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 2 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 2 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 2 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados da plataforma: NPB-SER com 3 threads
+Resultados do kernel: ep com 3 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 3 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 3 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 3 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 3 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 3 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-SER com 4 threads
+Resultados do kernel: ep com 4 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 4 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 4 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 4 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 4 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 4 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados da plataforma: NPB-SER com 5 threads
+Resultados do kernel: ep com 5 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.06
+
+Resultados do kernel: cg com 5 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 5 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 5 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 5 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 5 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados da plataforma: NPB-SER com 6 threads
+Resultados do kernel: ep com 6 threads
+Run 1:  Time in seconds =                     1.06
+Run 2:  Time in seconds =                     1.06
+Run 3:  Time in seconds =                     1.06
+Run 4:  Time in seconds =                     1.06
+Run 5:  Time in seconds =                     1.07
+
+Resultados do kernel: cg com 6 threads
+Run 1:  Time in seconds =                     0.02
+Run 2:  Time in seconds =                     0.02
+Run 3:  Time in seconds =                     0.02
+Run 4:  Time in seconds =                     0.02
+Run 5:  Time in seconds =                     0.02
+
+Resultados do kernel: mg com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: is com 6 threads
+Run 1:  Time in seconds =                     0.00
+Run 2:  Time in seconds =                     0.00
+Run 3:  Time in seconds =                     0.00
+Run 4:  Time in seconds =                     0.00
+Run 5:  Time in seconds =                     0.00
+
+Resultados do kernel: ft com 6 threads
+Run 1:  Time in seconds =                     0.05
+Run 2:  Time in seconds =                     0.05
+Run 3:  Time in seconds =                     0.05
+Run 4:  Time in seconds =                     0.05
+Run 5:  Time in seconds =                     0.05
+
+Resultados do kernel: bt com 6 threads
+Run 1:  Time in seconds =                     0.04
+Run 2:  Time in seconds =                     0.04
+Run 3:  Time in seconds =                     0.04
+Run 4:  Time in seconds =                     0.04
+Run 5:  Time in seconds =                     0.04
+
+Resultados do kernel: sp com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
+Resultados do kernel: lu com 6 threads
+Run 1:  Time in seconds =                     0.01
+Run 2:  Time in seconds =                     0.01
+Run 3:  Time in seconds =                     0.01
+Run 4:  Time in seconds =                     0.01
+Run 5:  Time in seconds =                     0.01
+
