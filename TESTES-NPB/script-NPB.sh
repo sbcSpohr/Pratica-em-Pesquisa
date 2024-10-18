@@ -2,9 +2,11 @@
 
 platforms=("NPB-OMP" "NPB-FF" "NPB-TBB" "NPB-SER")
 kernels=("ep" "cg" "mg" "is" "ft" "bt" "sp" "lu")
-BASE_DIR="$HOME/Faculdade/PEP/TESTES-NPB"
+classes=("S")
+
+BASE_DIR="$HOME/PEP/TESTES-NPB"
 runs=5
-threads=(1 2 3 4 5 6)
+threads=(1 2 3)
 
 output_file="$BASE_DIR/benchmark_times.txt"
 
@@ -39,24 +41,18 @@ for platform in "${platforms[@]}"; do
 
         for kernel in "${kernels[@]}"; do
 
-            # Definir a classe de acordo com o kernel
-            if [[ "$kernel" == "bt" || "$kernel" == "sp" || "$kernel" == "lu" ]]; then
-                class="A"
-            else
-                class="B"
-            fi
+            for class in "${classes[@]}"; do
+                for run in $(seq 1 $runs); do
+                    result_file="$platform_result_dir/result${kernel}_${class}_threads${thread}_run${run}.txt"
+                    >"$result_file"
 
-            for run in $(seq 1 $runs); do
-                result_file="$platform_result_dir/result${kernel}_${class}_threads${thread}_run${run}.txt"
-                >"$result_file"
-
-                # Compilar e executar o benchmark
-                make "$kernel" CLASS="$class"
-                if [ $? -eq 0 ]; then
-                    ./bin/${kernel}.${class} >> "$result_file"
-                else
-                    echo "Erro ao compilar $kernel para a classe $class" >> "$platform_result_dir/error.log.txt"
-                fi
+                    make "$kernel" CLASS="$class"
+                    if [ $? -eq 0 ]; then
+                        ./bin/${kernel}.${class} >> "$result_file"
+                    else
+                        echo "Erro ao compilar $kernel para $class" >> "$platform_result_dir/error.log.txt"
+                    fi
+                done
             done
         done
 
