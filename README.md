@@ -38,6 +38,14 @@ Bixar matplotlib:
 
   - Baixar pelo gerenciador de pacotes debian:
 
+        sudo apt install python3-matplotlib
+
+
+Compilar:
+
+        python3 <nome_do_arquivo>.py
+
+
 # METODOLOGIA 2 
 
  com os testes rodados pegando a energia com o monitor.sh, foi gerado um output com as metricas de energia e pa.
@@ -45,10 +53,3 @@ Bixar matplotlib:
  o generate_csv.sh vai ir na pasta TESTES-NPB e gerar um csv com o nome da aplicação, o numero de threads e o elapsed_time, porem o date que precisa para passar pelo parser nao esta nesse csv.
 
 entoa agora precisa reacionar os date que estao na pasta DATE junto com as outras informações. FÉ!
-
-        sudo apt install python3-matplotlib
-
-
-Compilar:
-
-        python3 <nome_do_arquivo>.py
