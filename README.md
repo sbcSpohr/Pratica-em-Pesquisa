@@ -53,3 +53,6 @@ Compilar:
  o generate_csv.sh vai ir na pasta TESTES-NPB e gerar um csv com o nome da aplicação, o numero de threads e o elapsed_time, porem o date que precisa para passar pelo parser nao esta nesse csv.
 
 entoa agora precisa reacionar os date que estao na pasta DATE junto com as outras informações. FÉ!
+
+RODAR O monitor.sh E SALVAR EM UM ARQUIVO CHAMADO < energiaNPB.csv >
+RODAR O generate_csv.sh E SALVAR EM UM ARQUIVO CHAMADO < metricasNPB.csv >
