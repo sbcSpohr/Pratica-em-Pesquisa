@@ -15,7 +15,7 @@ for platform in resultNPB-FF resultNPB-OMP resultNPB-SER resultNPB-TBB; do
     app_name=${platform#resultNPB-}
 
     for file in "$LOG_DIR/$platform"/*.txt; do
-        # Check if the file exists
+    
         if [[ -f "$file" ]]; then
 
             num_worker=$(grep "Total threads" "$file" | awk '{print $4}')
