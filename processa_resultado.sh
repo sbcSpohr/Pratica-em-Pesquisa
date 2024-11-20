@@ -1,7 +1,7 @@
 #!/bin/bash
 
 base_dir="." 
-output_file="resultados_formatados.txt"
+output_file="benchmark_times.txt"
 debug_file="resultados_debug.txt"
 > "$output_file"
 
